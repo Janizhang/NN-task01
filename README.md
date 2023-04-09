@@ -56,7 +56,12 @@ learning_rates, hidden_sizes, lambdas, num_iterations)
 最佳参数：{学习率: 0.1，隐藏层大小: 50，正则化强度: 0.5}，分类精度：0.9369
 ```
 ### 4、将参数查找后得到的最佳模型中每层网络参数可视化
-
+![W1](https://github.com/Janizhang/NN-task01/blob/main/img/L1.W.png)
+![W2](https://github.com/Janizhang/NN-task01/blob/main/img/L2.W.png)
+![b1,b2](https://github.com/Janizhang/NN-task01/blob/main/img/Biases.png)
 ### 5、可视化训练和测试的loss曲线，测试的accuracy曲线
+![loss](https://github.com/Janizhang/NN-task01/blob/main/img/loss.png)
+![acc](https://github.com/Janizhang/NN-task01/blob/main/img/acc.png)
+![lr](https://github.com/Janizhang/NN-task01/blob/main/img/lr.png)
 
 img文件夹中是代码运行产生的图片
