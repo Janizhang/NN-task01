@@ -64,4 +64,6 @@ learning_rates, hidden_sizes, lambdas, num_iterations)
 ![acc](https://github.com/Janizhang/NN-task01/blob/main/img/acc.png)
 ![lr](https://github.com/Janizhang/NN-task01/blob/main/img/lr.png)
 
-img文件夹中是代码运行产生的图片
+#### img文件夹中是代码运行产生的图片
+#### 4.8.py文件中包含训练、参数查找、测试三个部分的代码
+#### ipynb文件是对py文件的解释，导出成pdf报告
